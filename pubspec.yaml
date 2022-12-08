@@ -1,7 +1,7 @@
 name: awesome_otp_screen
 description: Flutter Package For Prebuilt OTP Screen.
-version: 0.0.1
-homepage:
+version: 0.0.2
+homepage: https://github.com/ssoad/awesome_otp_screen
 
 environment:
   sdk: ">=2.18.2 <3.0.0"
